@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjesh12
+- 👋 Hi, I’m Sanjesh Chourasia. 
 - 👀 I’m interested in Data Analysis, Data Science.
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
